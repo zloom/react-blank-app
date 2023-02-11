@@ -10,7 +10,7 @@
     "@types/react-redux": "^7.1.1",
     "@types/react-router-dom": "^4.3.4",
     "@types/react-router-redux": "^5.0.18",
-    "@webpack-cli/serve": "^0.1.8",
+    "@webpack-cli/serve": "^2.0.1",
     "autodll-webpack-plugin": "^0.4.2",
     "css-loader": "^3.2.0",
     "fork-ts-checker-webpack-plugin": "^1.5.0",
